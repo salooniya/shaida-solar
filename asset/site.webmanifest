@@ -1,0 +1,47 @@
+{
+    "name": "shaida solar energy",
+    "short_name": "shaida solar",
+    "start_url": "https://shaidasolar.com",
+    "categories": ["solar", "shaida", "solar energy", "eco friendly"],
+    "description": "Solar Expert, Shaida Moqimi, specializes in providing solar for homeowners throughout the valley. As a compassionate solar provider in Las Vegas, she is highly driven and strives to find her clients the highest quality and most affordable solar panels in the market. Shaida customizes the solar option that is the best fit for the client and their needs.",
+    "lang": "en-US",
+    "icons": [
+        {
+            "src": "/asset/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/asset/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "related_applications": [
+      {
+        "platform": "webapp",
+        "url": "https://www.solup.com/"
+      }
+    ],
+    "shortcuts" : [
+      {
+        "name": "Home",
+        "url": "/index.html"
+      },
+      {
+        "name": "About",
+        "url": "/sbout.html"
+      },
+      {
+        "name": "Gallery",
+        "url": "/gallery.html"
+      },
+      {
+          "name": "Contact",
+          "url": "/contact.html"
+      }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "green",
+    "display": "standalone"
+}
